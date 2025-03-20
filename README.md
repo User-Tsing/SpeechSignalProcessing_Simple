@@ -3,6 +3,9 @@ Directed by STAssn
 实现功能：语音加噪与语音增强、语音回声产生与消除、语音端点检测。                
 本项目不涉及机器学习。              
 上传是为了纪念曾经制作过这样一个课程项目。
+
+Declaration: This project was mainly completed by an individual, STAssn, but submitted as a group assignment.     
+
         
 PS:         
 List of participants:        
