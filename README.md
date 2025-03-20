@@ -10,6 +10,6 @@ Declaration: This project was mainly completed by STAssn, but submitted as a gro
 PS:         
 List of participants:        
 Directed by STAssn(C);        
-Phase 1 partner: Y P'u, M Ch'ang        
-Phase 2 partner: L Wang, Y Hsu, C Ch'ang, K Chen          
+Phase 1 partners: Y P'u, M Ch'ang        
+Phase 2 partners: L Wang, Y Hsu, C Ch'ang, K Chen          
 （为避免不必要的问题，上述均为化名）
