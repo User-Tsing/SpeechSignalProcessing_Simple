@@ -4,12 +4,11 @@ Directed by STAssn
 本项目不涉及机器学习。              
 上传是为了纪念曾经制作过这样一个课程项目。
 
-Declaration: This project was mainly completed by STAssn, but submitted as a group assignment.     
+Declaration: This project was completed by STAssn, but submitted as a group assignment.     
 
         
 PS:         
 List of participants:        
-Directed by STAssn(C);        
-Phase 1 partners: Y P'u, M Ch'ang        
+Directed by STAssn(C);           
 Phase 2 partners: L Wang, Y Hsu, C Ch'ang, K Chen          
 （为避免不必要的问题，上述均为化名）
